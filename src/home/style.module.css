@@ -1,0 +1,39 @@
+.board {
+  height: 155px;
+  background-color: #ffffff;
+  display: grid;
+  align-items: center;
+  padding: 40px;
+}
+
+.boardHead {
+  font-size: 23px;
+  font-weight: bold;
+  color: #989797;
+}
+
+.boardMsg {
+  font-size: 30px;
+  font-weight: bold;
+  color: #258ea6;
+}
+
+.tutCard {
+  height: 96px;
+  background-color: #258ea6;
+  width: 305px;
+  border-radius: 10px;
+  color: #fff;
+  font-size: 20px;
+  font-weight: 500;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 20px;
+  cursor: pointer;
+}
+
+.tutCont {
+  display: flex;
+  flex-wrap: wrap;
+}

@@ -1,0 +1,11 @@
+.topNav {
+  height: 70px;
+  background-color: #ffffff;
+  margin-bottom: 5px;
+  display: flex;
+  align-items: center;
+}
+
+.topNav button {
+  margin: 12px;
+}

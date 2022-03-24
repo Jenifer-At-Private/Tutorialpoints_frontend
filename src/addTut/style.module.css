@@ -1,0 +1,20 @@
+.addTut {
+  padding: 40px;
+}
+
+.addableSection > * {
+  margin: 20px;
+}
+
+.addableSection textarea {
+  width: 100%;
+  border-radius: 10px;
+}
+
+.addableSection input {
+  width: 100%;
+  height: 50px;
+  border-radius: 10px;
+  outline: none;
+  border: 1px solid black;
+}
